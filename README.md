@@ -2,9 +2,12 @@
 
 
 In this project we were tasked with programming a [Husarion Rosbot 2](https://husarion.com/robots/rosbot/)  that could navigate a map by following the line and find a target. The robot was required to be able to navigate the maze and recognize "Good" or "Bad" guys which are represented by images of fresh fruits. 
-<p class ='v' align="center">
+<div align="center">
+  <a>
     <img src="presentation/mclane_robot.jpeg" alt="alt text" style="border-radius: 10px; max-width: 50%;">
-</p>
+</a>
+</div>
+
 
 #  Video of the robot in action
 
