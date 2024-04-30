@@ -71,6 +71,8 @@ Make sure that the [code for the line-following](/rosbot/robot_driver.py) is run
 
 Results of [the model](/model_weights/best.pt):
 
-```
-```
+
+| epoch | train/box_loss | train/cls_loss | train/dfl_loss | metrics/precision(B) | metrics/recall(B) | metrics/mAP50(B) | metrics/mAP50-95(B) |
+|-------|----------------|----------------|----------------|----------------------|-------------------|------------------|---------------------|
+| 150   | 0.26692        | 0.15575        | 0.80114        | 0.96628              | 0.95307           | 0.97066          | 0.93295             |
 
