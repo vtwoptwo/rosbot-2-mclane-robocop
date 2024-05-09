@@ -6,7 +6,7 @@ In this project we were tasked with programming a [Husarion Rosbot 2](https://hu
 
 <div align="center"> 
   <a>
-    <img src="presentation/image.png" width="300px" style="border-radius:10px">
+    <img src="presentation/image.png" width="300px" style="border-radius:10px;">
 </a>
 </div>
 
