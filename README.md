@@ -3,7 +3,7 @@
 
 In this project we were tasked with programming a [Husarion Rosbot 2](https://husarion.com/robots/rosbot/)  that could navigate a map by following the line and find a target. The robot was required to be able to navigate the maze and recognize "Good" or "Bad" guys which are represented by images of fresh fruits. 
 <div align="center">
-  <a style="border-radius: 10px; max-width: 50%;">
+  <a>
     <img src="presentation/image.png" style="border-radius: 10px; max-width: 200;">
 </a>
 </div>
